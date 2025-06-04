@@ -1,5 +1,5 @@
     git clone <repository_url>
-    cd llm-agent
+    cd llm-gemini
     ```
 
 2.  **Install dependencies:**
